@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @BrianObonyo
-- A passionate software Developer.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on Cs projects.
-- 📫 How to reach me, Email: otienob553@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love coding.
