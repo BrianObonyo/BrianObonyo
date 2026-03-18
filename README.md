@@ -114,9 +114,9 @@ AI Features            →  RAG chatbots that answer from real business document
 
 <div align="center">
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-Otieno-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&icon_color=1e50c8&text_color=c9d1d9)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&icon_color=1e50c8&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Otieno-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&text_color=c9d1d9)
 
 </div>
 
