@@ -1,21 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════
-     Brian Otieno Obonyo — GitHub Profile README
-     brianprofocus@gmail.com | brianobonyo.dev
-     ─────────────────────────────────────────────────────────
-     To use: create a repo named exactly YOUR_USERNAME on GitHub
-     (e.g. Brian-Otieno-dev/Brian-Otieno-dev), add this file
-     as README.md, and GitHub will display it on your profile.
-══════════════════════════════════════════════════════════= -->
-
 <div align="center">
 
 # Brian Otieno Obonyo
 
-**Frontend Developer · Web Infrastructure · Cloud Deployment**
+**Frontend Developer · Web & Cloud Infrastructure · Web Projects**
 
 *Nairobi, Kenya — available for remote work globally*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-brianobonyo.dev-1e50c8?style=flat-square&logo=googlechrome&logoColor=white)](https://brianobonyo.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-1e50c8?style=flat-square&logo=vercel&logoColor=white)](https://your-vercel-demo.vercel.app)
 [![Email](https://img.shields.io/badge/Email-brianprofocus@gmail.com-1e50c8?style=flat-square&logo=gmail&logoColor=white)](mailto:brianprofocus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Obonyo-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-obonyo-238635298/)
 [![X](https://img.shields.io/badge/X-@itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
@@ -26,30 +17,26 @@
 
 ## About
 
-I help businesses fix the technical problems that make websites slow, hard to update, or invisible on Google.
+I help businesses build fast, maintainable, and visible websites.  
 
-Most of my work happens at the infrastructure level — setting up reliable hosting, configuring DNS and domains, implementing headless CMS architecture so content teams can work independently, and diagnosing the indexing issues that silently keep pages off search results.
+I focus on **infrastructure and deployment**, including hosting, cloud platforms, automated pipelines, and content management workflows — so websites run smoothly, teams can edit independently, and pages rank on search engines.
 
-Currently expanding into AWS, Docker, and CI/CD pipeline automation as part of a deeper focus on modern web infrastructure.
+Currently expanding into **AWS, Docker, and CI/CD automation** for modern web infrastructure.  
 
-- 🌍 Based in **Nairobi, Kenya**
-- 🎓 **Computer Science** — Zetech University
-- 💼 Available for **freelance** and **contract** work
+- 🌍 Based in **Nairobi, Kenya**  
+- 🎓 **Computer Science** — Zetech University  
+- 💼 Available for **freelance** and **contract** work  
 - 📬 Reach me at **brianprofocus@gmail.com**
 
 ---
 
 ## What I Do
-
-```
-Website Deployment     →  Hosting, DNS, domains, SSL — projects go live without surprises
-Headless CMS           →  Content teams edit independently, no developer needed for daily changes
-Technical SEO          →  Indexing audits, crawl errors, Core Web Vitals, Search Console setup
-Google Business        →  GMB optimisation, local SEO, map pack visibility
-Cloud Infrastructure   →  AWS, Vercel, Netlify, CI/CD pipelines
-AI Features            →  RAG chatbots that answer from real business documents, not guesses
-```
-
+Website Deployment     → Deploy fast, secure websites on Vercel & Netlify with SSL
+Headless CMS           → Empower content teams to manage updates without a developer
+Technical SEO          → Fix indexing, Core Web Vitals, and search visibility issues
+AI-Powered Features    → Build chatbots & automation that answer from real business data
+Cloud Infrastructure   → Configure AWS, Docker, CI/CD pipelines for reliable operations
+Web Projects           → Build responsive, interactive websites and demos
 ---
 
 ## Tech Stack
@@ -95,18 +82,18 @@ AI Features            →  RAG chatbots that answer from real business document
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Rivernille Construction**](https://rivernilleconstruction.co.ke) | Business website with CMS, SSL, domain setup, SEO | HTML · CSS · JS · Custom CMS |
-| [**MF Security Group**](https://mfsecuritygroup.co.ke) | Company site with self-managed content system | HTML · CSS · JS · Custom CMS |
+| [**Rivernille Construction**](https://rivernilleconstruction.co.ke) | Business website with CMS, SSL, SEO | HTML · CSS · JS · Custom CMS |
+| [**MF Security Group**](https://mfsecuritygroup.co.ke) | Company site with self-managed content | HTML · CSS · JS · Custom CMS |
 | [**RAG Support Chatbot**](https://github.com/Brian-Otieno-dev) | Document-grounded AI chatbot — no hallucinations | Python · OpenAI · LangChain · ChromaDB |
-| [**Snake Game**](https://snake.brianobonyo.dev) | Polished browser game — particles, CRT aesthetic, mobile | HTML5 Canvas · Vanilla JS |
+| [**Snake Game**](https://snake.brianobonyo.dev) | Browser game — polished, mobile-friendly, particles | HTML5 Canvas · Vanilla JS |
 
 ---
 
 ## Currently Learning
 
-- **AWS** — EC2, S3, Route 53, CloudFront, IAM
-- **Docker** — containerisation, Docker Compose
-- **CI/CD** — GitHub Actions, automated deployment pipelines
+- **AWS** — EC2, S3, Route 53, CloudFront, IAM  
+- **Docker** — Containerization, Docker Compose  
+- **CI/CD** — GitHub Actions, automated deployment pipelines  
 
 ---
 
@@ -114,7 +101,7 @@ AI Features            →  RAG chatbots that answer from real business document
 
 <div align="center">
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&icon_color=1e50c8&text_color=c9d1d9)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&icon_color=1e50c8)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&text_color=c9d1d9)
 
@@ -132,27 +119,12 @@ AI Features            →  RAG chatbots that answer from real business document
 
 ---
 
-## Blog
-
-I write practical articles on web development, cloud infrastructure, SEO, and AI — no filler, no schedule.
-
-Recent posts:
-
-- [**Google Search Console: Fixing Indexing Issues Step by Step**](https://brianobonyo.dev/blog-indexing-fix.html)
-- [**Why Your Content Team Shouldn't Need a Developer to Publish**](https://brianobonyo.dev/blog-headless-cms.html)
-- [**What Every Non-Technical Founder Needs to Understand About DNS**](https://brianobonyo.dev/blog-dns-explainer.html)
-
-[→ All posts](https://brianobonyo.dev/blogs.html)
-
----
-
 ## Let's Work Together
 
-If your website is slow to update, hard to maintain, or your pages aren't showing on Google — let's fix it.
+If your website is slow, hard to maintain, or not ranking on Google — let's fix it.
 
 **📬 brianprofocus@gmail.com**  
 **💬 [WhatsApp](https://wa.me/254741522175)**  
-**🌐 [brianobonyo.dev](https://brianobonyo.dev)**
 
 ---
 
