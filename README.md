@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-1e50c8?style=flat-square&logo=vercel&logoColor=white)](https://your-vercel-demo.vercel.app)
 [![Email](https://img.shields.io/badge/Email-brianprofocus@gmail.com-1e50c8?style=flat-square&logo=gmail&logoColor=white)](mailto:brianprofocus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Obonyo-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-obonyo-238635298/)
-[![X](https://img.shields.io/badge/X-@itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
+[![](https://img.shields.io/badge/X-@itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
 
 </div>
 
@@ -84,8 +84,7 @@ Web Projects           → Build responsive, interactive websites and demos
 |---|---|---|
 | [**Rivernille Construction**](https://rivernilleconstruction.co.ke) | Business website with CMS, SSL, SEO | HTML · CSS · JS · Custom CMS |
 | [**MF Security Group**](https://mfsecuritygroup.co.ke) | Company site with self-managed content | HTML · CSS · JS · Custom CMS |
-| [**RAG Support Chatbot**](https://github.com/Brian-Otieno-dev) | Document-grounded AI chatbot — no hallucinations | Python · OpenAI · LangChain · ChromaDB |
-| [**Snake Game**](https://snake.brianobonyo.dev) | Browser game — polished, mobile-friendly, particles | HTML5 Canvas · Vanilla JS |
+| [**RAG Support Chatbot**]() | Document-grounded AI chatbot — no hallucinations | Python · OpenAI · LangChain · ChromaDB |
 
 ---
 
@@ -121,7 +120,7 @@ Web Projects           → Build responsive, interactive websites and demos
 
 ## Let's Work Together
 
-If your website is slow, hard to maintain, or not ranking on Google — let's fix it.
+Reach out for project collaborations or contract work.
 
 **📬 brianprofocus@gmail.com**  
 **💬 [WhatsApp](https://wa.me/254741522175)**  
