@@ -2,16 +2,10 @@
 
 # Brian Otieno Obonyo
 
-**Frontend Developer · Web & Cloud Infrastructure · Web Projects**
+**Fullstack Developer · Web & Cloud Infrastructure · Web Projects**
 
 *Nairobi, Kenya — available for remote work globally*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-1e50c8?style=flat-square&logo=vercel&logoColor=white)](https://your-vercel-demo.vercel.app)
-[![Email](https://img.shields.io/badge/Email-brianprofocus@gmail.com-1e50c8?style=flat-square&logo=gmail&logoColor=white)](mailto:brianprofocus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Obonyo-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-obonyo-238635298/)
-[![](https://img.shields.io/badge/X-@itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
-
-</div>
 
 ---
 
