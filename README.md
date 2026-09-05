@@ -1,10 +1,10 @@
-# 🌐 Brian Otieno Obonyo  
+#  Brian Otieno Obonyo  
 **Fullstack Developer · Cloud & Web Infrastructure · Technical SEO**  
 *Nairobi, Kenya — Open to Remote Work*
 
 ---
 
-## 👋 About Me  
+##  About Me  
 I help businesses build **fast, maintainable, and visible websites**.  
 
 My focus is on **infrastructure and deployment** — hosting, cloud platforms, automated pipelines, and CMS workflows — ensuring websites run smoothly, teams edit independently, and pages rank on search engines.  
@@ -18,7 +18,7 @@ Currently expanding into **AWS, Docker, and CI/CD automation** for modern web in
 
 ---
 
-## 🚀 What I Do  
+##  What I Do  
 - **Website Deployment** → Fast, secure sites on Vercel & Netlify with SSL  
 - **Headless CMS** → Empower content teams to manage updates independently  
 - **Technical SEO** → Fix indexing, Core Web Vitals, and search visibility  
@@ -28,7 +28,7 @@ Currently expanding into **AWS, Docker, and CI/CD automation** for modern web in
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 **Frontend**: HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · SASS  
 **CMS**: Contentful · Sanity  
@@ -38,7 +38,7 @@ Currently expanding into **AWS, Docker, and CI/CD automation** for modern web in
 
 ---
 
-## 📂 Projects  
+##  Projects  
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -55,7 +55,7 @@ Currently expanding into **AWS, Docker, and CI/CD automation** for modern web in
 
 ---
 
-## 📈 Certifications  
+##  Certifications  
 - ✅ Introduction to Cybersecurity — Cisco Academy (2025)  
 - ✅ Python 2 Essentials — Cisco  
 - ✅ Technical SEO — Google Search Central (2024)  
