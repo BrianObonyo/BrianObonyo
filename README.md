@@ -6,10 +6,6 @@
 
 *Nairobi, Kenya — available for remote work globally*
 
-[![Email](https://img.shields.io/badge/Email-brianprofocus%40gmail.com-1e50c8?style=flat-square&logo=gmail&logoColor=white)](mailto:brianprofocus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Obonyo-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-obonyo-238635298/)
-[![X](https://img.shields.io/badge/X-%40itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
-
 </div>
 
 ---
