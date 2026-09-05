@@ -18,10 +18,10 @@ I focus on **infrastructure and deployment**, including hosting, cloud platforms
 
 Currently expanding into **AWS, Docker, and CI/CD automation** for modern web infrastructure.
 
-- 🌍 Based in **Nairobi, Kenya**
-- 🎓 **Computer Science** — Zetech University
-- 💼 Available for **freelance** and **contract** work
-- 📬 Reach me at **brianprofocus@gmail.com**
+-  Based in **Nairobi, Kenya**
+-  **Computer Science** — Zetech University
+-  Available for **freelance** and **contract** work
+-  Reach me at **brianprofocus@gmail.com**
 
 ---
 
