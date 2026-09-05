@@ -6,9 +6,9 @@
 
 *Nairobi, Kenya — available for remote work globally*
 
-[![Email](https://img.shields.io/badge/Email-brianprofocus@gmail.com-1e50c8?style=flat-square&logo=gmail&logoColor=white)](mailto:brianprofocus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Obonyo-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-obonyo-238635298/)
-[![X](https://img.shields.io/badge/X-@itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
+[![Email](https://img.shields.io/badge/Email-brianprofocus%40gmail.com-1e50c8?style=flat-square&logo=gmail&logoColor=white)](mailto:brianprofocus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Obonyo-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-obonyo-238635298/)
+[![X](https://img.shields.io/badge/X-%40itsBrianOtieno-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsBrianOtieno)
 
 </div>
 
@@ -78,6 +78,18 @@ Web Projects           →  Build responsive, interactive websites and demos
 
 ![Google Search Console](https://img.shields.io/badge/Search_Console-458cf5?style=flat-square&logo=googlesearchconsole&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&icon_color=1e50c8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1e50c8&text_color=c9d1d9)
+
+</div>
 
 ---
 
