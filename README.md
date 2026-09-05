@@ -2,7 +2,7 @@
 
 # Brian Otieno Obonyo
 
-**Fullstack Developer · Web & Cloud Infrastructure · Web Projects**
+**Fullstack Developer · Web & Cloud Infrastructure · Automations**
 
 *Nairobi, Kenya — available for remote work globally*
 
