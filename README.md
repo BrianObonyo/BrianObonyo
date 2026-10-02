@@ -87,15 +87,6 @@ Web Projects           →  Build responsive, interactive websites and demos
 
 </div>
 
----
-
-## Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Rivernille Construction**](https://rivernilleconstruction.co.ke) | Business website with CMS, SSL, SEO | HTML · CSS · JS · Custom CMS |
-| [**MF Security Group**](https://mfsecuritygroup.co.ke) | Company site with self-managed content | HTML · CSS · JS · Custom CMS |
-| **RAG Support Chatbot** | Document-grounded AI chatbot — no hallucinations | Python · OpenAI · LangChain · ChromaDB |
 
 ---
 
@@ -105,15 +96,7 @@ Web Projects           →  Build responsive, interactive websites and demos
 - **Docker** — Containerization, Docker Compose
 - **CI/CD** — GitHub Actions, automated deployment pipelines
 
----
 
-## Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| Introduction to Cybersecurity | Cisco Academy | ✅ Completed 2025 |
-| Python 2 Essentials | Cisco | ✅ Completed |
-| Technical SEO | Google Search Central | ✅ Completed 2024 |
 
 ---
 
