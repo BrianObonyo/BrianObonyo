@@ -34,7 +34,7 @@ Currently expanding into AWS, Docker and CI/CD.
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,netlify" />
 </p>
 
-<h2 align="center">🚀 Currently Learning</h2>
+<h2 align="center">  Currently Learning</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
