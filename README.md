@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Nairobi, Kenya · Open to Remote Opportunities
+   📍 Nairobi, Kenya >>> Open to Remote Opportunities
 </p>
 
 ---
@@ -37,6 +37,9 @@ Currently expanding into AWS, Docker and CI/CD.
 <h2 align="center">🚀 Currently Learning</h2>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+<p align="center">
   AWS · Docker · CI/CD · Cloud Infrastructure
 </p>
 
@@ -51,13 +54,13 @@ Currently expanding into AWS, Docker and CI/CD.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianObonyo&theme=radical&hide_border=true" />
 </p>
 
-<h2 align="center">📫 Let's Work Together</h2>
+
+<h2 align="center">Let's Build Something</h2>
 
 <p align="center">
-  Freelance · Web Development · Cloud · Automation · AI
+  Open to freelance, contract, and collaboration opportunities.
 </p>
 
 <p align="center">
-  <a href="mailto:brianprofocus@gmail.com">brianprofocus@gmail.com</a>
+  📧 brianprofocus@gmail.com
 </p>
-
