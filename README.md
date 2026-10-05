@@ -4,12 +4,14 @@
   </a>
 </h1>
 
-<h3 align="center">
-  Fullstack Developer · Web & Cloud Infrastructure · Automations
-</h3>
+<h2 align="center">I am a passsionate Fullstack Developer</h2>
 
 <p align="center">
-  Nairobi, Kenya · Available for Remote Work
+  I build web applications, cloud infrastructure, and AI-powered automations.
+</p>
+
+<p align="center">
+  Nairobi, Kenya · Open to Remote Opportunities
 </p>
 
 <p align="center">
