@@ -39,8 +39,9 @@ Currently expanding into AWS, Docker and CI/CD.
 <h2 align="center">  Currently Learning</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
+
 <p align="center">
   AWS · Docker · CI/CD · Cloud Infrastructure
 </p>
@@ -53,9 +54,12 @@ Currently expanding into AWS, Docker and CI/CD.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianObonyo&theme=radical&hide_border=true" />
+  <b>Note:</b> Top languages is only a metric of the languages used in my public repositories and does not necessarily reflect my experience or skill level.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianObonyo&theme=radical&hide_border=true" />
+</p>
 
 <h2 align="center">Let's Build Something</h2>
 
