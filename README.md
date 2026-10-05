@@ -14,15 +14,6 @@
   Nairobi, Kenya · Open to Remote Opportunities
 </p>
 
-<p align="center">
-  <a href="mailto:brianprofocus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brianprofocus-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BrianObonyo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
