@@ -55,7 +55,7 @@ Currently expanding into AWS, Docker and CI/CD.
 
 <p align="center">
   <a href="https://ko-fi.com/brianobonyo">
-    <img src="https://img.shields.io/badge/☕_Support_My_Work-FFDD00?style=for-the-badge&logoColor=black" alt="Support my work on Ko-fi" />
+    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-173B67?style=for-the-badge&labelColor=173B67" alt="Buy me a coffee on Ko-fi" />
   </a>
 </p>
 
