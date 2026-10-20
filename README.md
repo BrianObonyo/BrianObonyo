@@ -3,9 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA198&center=true&vCenter=true&width=700&lines=Hello+There+%F0%9F%91%8B+I'm+Brian+Obonyo;I+am+a+Fullstack+Developer;I+build+Web+%26+Cloud+Applications;I+create+AI+%26+Automation+Solutions" alt="Typing SVG" />
   </a>
 </h1>
+  </a>
+</h1>
+
+<h2 align="center">I am a passsionate Fullstack Developer</h2>
 
 <p align="center">
-  📍 Nairobi, Kenya · Open to Remote Opportunities
+  I build web applications, cloud infrastructure, and AI-powered automations.
+</p>
+
+<p align="center">
+   📍 Nairobi, Kenya >>> Open to Remote Opportunities
 </p>
 
 ---
@@ -28,7 +36,7 @@ Currently expanding into AWS, Docker and CI/CD.
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,netlify" />
 </p>
 
-<h2 align="center">Currently Learning</h2>
+<h2 align="center">  Currently Learning</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
@@ -55,7 +63,7 @@ Currently expanding into AWS, Docker and CI/CD.
 
 <p align="center">
   <a href="https://github.com/sponsors/BrianObonyo">
-    <img src="https://img.shields.io/badge/Sponsor-Brian%20Obonyo-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Brian Obonyo on GitHub" />
+    <img src="https://img.shields.io/badge/♥%20Sponsor-3BA198?style=for-the-badge&labelColor=252525" alt="Sponsor Brian Obonyo" />
   </a>
 </p>
 
