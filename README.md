@@ -1,100 +1,72 @@
-# 👋 Brian Obonyo
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA198&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Brian+Obonyo;Fullstack+Developer;Web+%26+Cloud+Applications;AI+%26+Automation+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA198&center=true&vCenter=true&width=700&lines=Hello+There+%F0%9F%91%8B+I'm+Brian+Obonyo;I+am+a+Fullstack+Developer;I+build+Web+%26+Cloud+Applications;I+create+AI+%26+Automation+Solutions" alt="Typing SVG" />
+  </a>
+</h1>
   </a>
 </h1>
 
-<h3 align="center">Fullstack Developer | Web Systems | AI Automation</h3>
+<h2 align="center">I am a passsionate Fullstack Developer</h2>
 
 <p align="center">
-  I build practical web applications, deployment infrastructure, and AI-powered solutions for businesses.
+  I build web applications, cloud infrastructure, and AI-powered automations.
 </p>
 
 <p align="center">
-  📍 Nairobi, Kenya · Open to Remote Opportunities
+   📍 Nairobi, Kenya >>> Open to Remote Opportunities
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a software developer focused on building useful, maintainable digital solutions. My work spans web application development, backend systems, deployment, and automation.
-
-I'm currently expanding my knowledge of cloud infrastructure, containerization, and CI/CD workflows.
-
-- Building web applications and backend systems
-- Exploring practical AI integrations and workflow automation
-- Learning cloud infrastructure and modern deployment practices
-- Open to freelance projects, contract work, and technical collaboration
-
----
-
-## 🛠️ Tech Stack
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,nodejs,django,postgres&perline=10" alt="Languages and application development technologies" />
+I build web applications, deployment infrastructure, automations and AI-powered features for businesses.
+<br/>
+Currently expanding into AWS, Docker and CI/CD.
+</p>
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,nodejs,django,postgresql" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&perline=5" alt="Development and deployment tools" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,netlify" />
 </p>
 
-## 📚 Currently Learning
+<h2 align="center">  Currently Learning</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&perline=3" alt="Cloud, containers, and CI/CD" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
 
 <p align="center">
   AWS · Docker · CI/CD · Cloud Infrastructure
 </p>
 
----
-
-## 📊 GitHub Activity
+<h2 align="center">🔥 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=transparent&hide_border=true" alt="Most-used languages in public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianObonyo&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <b>Note:</b> Top languages is only a metric of the languages used in my public repositories and does not necessarily reflect my experience or skill level.
 </p>
 
 <p align="center">
-  <sub>Language statistics reflect code in public repositories and may not represent my full experience or proficiency.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianObonyo&theme=radical&hide_border=true" />
 </p>
 
----
-
-## ☕ Support My Work
-
-If my projects, tools, or shared resources are useful to you, consider supporting my independent development work. Every contribution helps me keep building and improving.
+<h2 align="center">Let's Build Something</h2>
 
 <p align="center">
-  <a href="https://ko-fi.com/brianobonyo">
-    <img src="https://img.shields.io/badge/Ko--fi-Support%20My%20Work-3BA198?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Brian on Ko-fi" />
-  </a>
+  Open to freelance, contract, and collaboration opportunities.
 </p>
 
 <p align="center">
-  <sub>Thank you for supporting independent software development.</sub>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-Open to freelance projects, contract opportunities, and collaboration on useful software.
-
-<p align="center">
-  <a href="mailto:brianprofocus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-3BA198?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Brian" />
-  </a>
-  <a href="https://www.linkedin.com/in/brianobonyo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  📧 brianprofocus@gmail.com
 </p>
