@@ -3,17 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA198&center=true&vCenter=true&width=700&lines=Hello+There+%F0%9F%91%8B+I'm+Brian+Obonyo;I+am+a+Fullstack+Developer;I+build+Web+%26+Cloud+Applications;I+create+AI+%26+Automation+Solutions" alt="Typing SVG" />
   </a>
 </h1>
-  </a>
-</h1>
-
-<h2 align="center">I am a passsionate Fullstack Developer</h2>
 
 <p align="center">
-  I build web applications, cloud infrastructure, and AI-powered automations.
-</p>
-
-<p align="center">
-   📍 Nairobi, Kenya >>> Open to Remote Opportunities
+  📍 Nairobi, Kenya
 </p>
 
 ---
@@ -33,7 +25,7 @@ Currently expanding into AWS, Docker and CI/CD.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,netlify" />
 </p>
 
 <h2 align="center">Currently Learning</h2>
@@ -63,7 +55,7 @@ Currently expanding into AWS, Docker and CI/CD.
 
 <p align="center">
   <a href="https://ko-fi.com/brianobonyo">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support me on Ko-fi" />
+    <img src="https://img.shields.io/badge/☕_Support_My_Work-FFDD00?style=for-the-badge&logoColor=black" alt="Support my work on Ko-fi" />
   </a>
 </p>
 
