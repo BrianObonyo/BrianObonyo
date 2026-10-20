@@ -33,13 +33,13 @@ Currently expanding into AWS, Docker and CI/CD.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 </p>
 
-<h2 align="center">  Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
 
 <p align="center">
@@ -62,8 +62,8 @@ Currently expanding into AWS, Docker and CI/CD.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/BrianObonyo">
-    <img src="https://img.shields.io/badge/♥%20Sponsor-3BA198?style=for-the-badge&labelColor=252525" alt="Sponsor Brian Obonyo" />
+  <a href="https://ko-fi.com/brianobonyo">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support me on Ko-fi" />
   </a>
 </p>
 
