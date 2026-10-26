@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Nairobi, Kenya · Open to Remote Opportunities
+  Nairobi, Kenya 📍 · Open to Remote Opportunities 📩
 </p>
 
 ---
