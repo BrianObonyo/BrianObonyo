@@ -1,46 +1,36 @@
 
-<!-- ==================== HERO ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Brian%20Obonyo&fontAlign=50&fontAlignY=38&color=0:0f0f0f,50:1a1a2e,100:16213e&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Full-Stack%20Development%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20AI%20%26%20Automation&descAlignY=62&descSize=14" alt="Brian Obonyo — Full-Stack Developer"/>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=3BA198&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Developing+backend+systems+and+APIs;Exploring+cloud+infrastructure+and+AI;Turning+ideas+into+working+software" alt="Developer introduction"/>
+<!-- Animated Introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=3BA198&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brian+Obonyo;I+Build+Web+Applications+%26+Backend+Systems;I+Develop+APIs+%2C+Automations+%26+Cloud+Solutions;I+Turn+Ideas+Into+Working+Software" alt="Typing SVG" />
   </a>
-</p>
+</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Web Systems | Cloud Infrastructure | Automation</b>
-  <br/>
+</p>
+
+<p align="center">
   Nairobi, Kenya · Open to Remote Opportunities
 </p>
 
-<p align="center">
-  <a href="https://github.com/BrianObonyo">
-    <img src="https://img.shields.io/badge/GitHub-BrianObonyo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a href="https://ko-fi.com/brianobonyo">
-    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Work-173B67?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</p>
-
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- About Me -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I build web applications, backend systems, and automation solutions that help businesses streamline workflows and deliver better digital experiences.
+  I build practical web applications, backend systems, and automation solutions
+  that help businesses improve workflows and deliver better digital experiences.
   <br/><br/>
-  My work spans frontend development, API integration, database-backed applications, and deployment workflows, with a growing focus on cloud infrastructure and AI integration.
-  <br/><br/>
-  Open to freelance projects, contract work, and collaboration opportunities.
+  My work includes full-stack development, API integration, database-driven systems,
+  and website deployment. I'm currently expanding my skills in AWS, Docker,
+  and CI/CD to strengthen my cloud infrastructure capabilities.
 </p>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- Tech Stack -->
 <h2 align="center">⚒️ Tech Stack</h2>
 
 <div align="center">
@@ -85,7 +75,7 @@
 
 ---
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
+<!-- Currently Learning -->
 <h2 align="center">📚 Currently Learning</h2>
 
 <p align="center">
@@ -98,16 +88,16 @@
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-<h2 align="center">🔥 GitHub Statistics</h2>
+<!-- GitHub Statistics -->
+<h2 align="center">🔥 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true" height="170" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true" height="170" alt="Brian's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true" height="170" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <sub>Language statistics reflect code in public repositories and do not necessarily represent overall proficiency.</sub>
+  <b>Note:</b> Top languages is only a metric of the languages used in my public repositories and does not necessarily reflect my experience or skill level.
 </p>
 
 <p align="center">
@@ -116,13 +106,7 @@
 
 ---
 
-<!-- ==================== SUPPORT ==================== -->
-<h2 align="center">☕ Support My Work</h2>
-
-<p align="center">
-  If you find my projects useful, you can support my work on Ko-fi.
-</p>
-
+<!-- Support -->
 <p align="center">
   <a href="https://ko-fi.com/brianobonyo">
     <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-173B67?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/>
@@ -131,19 +115,14 @@
 
 ---
 
-<!-- ==================== CONTACT ==================== -->
+<!-- Contact -->
 <h2 align="center">Let's Build Something</h2>
 
 <p align="center">
-  Open to freelance projects, contract opportunities, and technical collaborations.
+  Open to freelance, contract, and collaboration opportunities.
 </p>
 
 <p align="center">
-  <a href="mailto:brianprofocus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brianprofocus%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
-  </a>
+  📧 <a href="mailto:brianprofocus@gmail.com">brianprofocus@gmail.com</a>
 </p>
 
-<p align="center">
-  <sub>Building practical software, one project at a time.</sub>
-</p>
