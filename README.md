@@ -93,12 +93,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true"
     height="170"
     alt="Brian's GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true"
     height="170"
     alt="Most used languages"
   />
@@ -136,4 +136,5 @@
 <p align="center">
   📧 <a href="mailto:brianprofocus@gmail.com">brianprofocus@gmail.com</a>
 </p>
+
 
