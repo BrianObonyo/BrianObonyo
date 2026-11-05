@@ -2,7 +2,7 @@
 <!-- Animated Introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=3BA198&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brian+Obonyo;I+Build+Web+Applications+%26+Backend+Systems;I+Develop+APIs+%2C+Automations+%26+Cloud+Solutions;I+Turn+Ideas+Into+Working+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3BA198&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brian+Obonyo;I+Build+Web+Applications+%26+Backend+Systems;I+Develop+APIs+%2C+Automations+%26+Cloud+Solutions;I+Turn+Ideas+Into+Working+Software" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -92,8 +92,16 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true" height="170" alt="Brian's GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true" height="170" alt="Most used languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BrianObonyo&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+    alt="Brian's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianObonyo&layout=compact&theme=radical&hide_border=true"
+    height="170"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
@@ -101,7 +109,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianObonyo&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=BrianObonyo&theme=radical&hide_border=true"
+    alt="Brian's GitHub contribution streak"
+  />
 </p>
 
 ---
