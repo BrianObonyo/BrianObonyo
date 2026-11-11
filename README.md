@@ -1,4 +1,3 @@
-
 <!-- Animated Introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,25 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Web Systems | Cloud Infrastructure | Automation</b>
-</p>
-
-<p align="center">
   Nairobi, Kenya 📍 · Open to Remote Opportunities 📩
-</p>
-
----
-
-<!-- About Me -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  I build practical web applications, backend systems, and automation solutions
-  that help businesses improve workflows and deliver better digital experiences.
-  <br/><br/>
-  My work includes full-stack development, API integration, database-driven systems,
-  and website deployment. I'm currently expanding my skills in AWS, Docker,
-  and CI/CD to strengthen my cloud infrastructure capabilities.
 </p>
 
 ---
@@ -72,19 +53,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 
 </div>
-
----
-
-<!-- Currently Learning -->
-<h2 align="center">📚 Currently Learning</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" alt="AWS, Docker and GitHub Actions"/>
-</p>
-
-<p align="center">
-  AWS · Docker · CI/CD · Cloud Infrastructure
-</p>
 
 ---
 
@@ -136,6 +104,4 @@
 <p align="center">
   📧 <a href="mailto:brianprofocus@gmail.com">brianprofocus@gmail.com</a>
 </p>
-
-
 
