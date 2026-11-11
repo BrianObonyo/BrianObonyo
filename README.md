@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  Nairobi, Kenya 📍 · Open to Remote Opportunities 📩
+  📍 Nairobi, Kenya · Available for Remote Work
 </p>
 
 ---
@@ -95,13 +95,10 @@
 ---
 
 <!-- Contact -->
-<h2 align="center">Let's Build Something</h2>
+<h2 align="center">Get in Touch</h2>
 
 <p align="center">
-  Open to freelance, contract, and collaboration opportunities.
+  <a href="mailto:brianprofocus@gmail.com">
+    brianprofocus@gmail.com
+  </a>
 </p>
-
-<p align="center">
-  📧 <a href="mailto:brianprofocus@gmail.com">brianprofocus@gmail.com</a>
-</p>
-
