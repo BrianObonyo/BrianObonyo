@@ -7,7 +7,25 @@
 </h1>
 
 <p align="center">
+  <b>Full-Stack Developer | Web Systems | Cloud Infrastructure | Automation</b>
+</p>
+
+<p align="center">
   Nairobi, Kenya 📍 · Open to Remote Opportunities 📩
+</p>
+
+---
+
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I build practical web applications, backend systems, and automation solutions
+  that help businesses improve workflows and deliver better digital experiences.
+  <br/><br/>
+  My work includes full-stack development, API integration, database-driven systems,
+  and website deployment. I'm currently expanding my skills in AWS, Docker,
+  and CI/CD to strengthen my cloud infrastructure capabilities.
 </p>
 
 ---
@@ -87,4 +105,37 @@
 </p>
 
 <p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages used in my public repositories and does not necessarily reflect my experience
+  <b>Note:</b> Top languages is only a metric of the languages used in my public repositories and does not necessarily reflect my experience or skill level.
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=BrianObonyo&theme=radical&hide_border=true"
+    alt="Brian's GitHub contribution streak"
+  />
+</p>
+
+---
+
+<!-- Support -->
+<p align="center">
+  <a href="https://ko-fi.com/brianobonyo">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-173B67?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/>
+  </a>
+</p>
+
+---
+
+<!-- Contact -->
+<h2 align="center">Let's Build Something</h2>
+
+<p align="center">
+  Open to freelance, contract, and collaboration opportunities.
+</p>
+
+<p align="center">
+  📧 <a href="mailto:brianprofocus@gmail.com">brianprofocus@gmail.com</a>
+</p>
+
+
+
