@@ -9,7 +9,6 @@
   📍 Nairobi, Kenya · Available for Remote Work
 </p>
 
-
 <!-- Tech Stack -->
 <h2 align="center">⚒️ Tech Stack</h2>
 
@@ -54,7 +53,6 @@
 </div>
 
 ---
-
 <!-- GitHub Statistics -->
 <h2 align="center">🔥 GitHub Stats</h2>
 
@@ -88,7 +86,7 @@
 <h2 align="center">Get in Touch</h2>
 
 <p align="center">
-  <a href="mailto:brianprofocus@gmail.com">
+  <a href="mailto:brianprofocus@gmail.com" style="text-decoration: none;">
     <img src="https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png" width="24" height="24" alt="Gmail" align="center"/>
     &nbsp;&nbsp;<b>brianprofocus@gmail.com</b>
   </a>
