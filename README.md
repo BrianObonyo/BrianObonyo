@@ -81,15 +81,11 @@
 </p>
 
 ---
-
 <!-- Contact -->
 <h2 align="center">Get in Touch</h2>
 
 <p align="center">
-  <a href="mailto:brianprofocus@gmail.com">
-    <img src="https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png" width="24" height="24" alt="Gmail" align="center"/>
-  </a>
+  <img src="https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png" width="24" height="24" alt="Gmail" align="center"/>
   &nbsp;&nbsp;
   <b>brianprofocus@gmail.com</b>
 </p>
-
