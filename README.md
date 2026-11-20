@@ -84,13 +84,6 @@
 
 ---
 
-<!-- Support -->
-<p align="center">
-  <a href="https://ko-fi.com/brianobonyo">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-173B67?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/>
-  </a>
-</p>
-
 ---
 
 <!-- Contact -->
@@ -98,6 +91,7 @@
 
 <p align="center">
   <a href="mailto:brianprofocus@gmail.com">
-    brianprofocus@gmail.com
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me on Gmail"/>
   </a>
 </p>
+
