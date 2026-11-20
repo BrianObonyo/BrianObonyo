@@ -80,7 +80,6 @@
   />
 </p>
 
----
 
 <!-- Contact -->
 <h2 align="center">Get in Touch</h2>
