@@ -1,7 +1,7 @@
 <!-- Animated Introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3BA198&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brian+Obonyo;I+Build+Web+Applications+%26+Backend+Systems;I+Develop+APIs+%2C+Automations+%26+Cloud+Solutions;I+Turn+Ideas+Into+Working+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=3BA198&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Brian+Obonyo;I+Build+Web+Applications+%26+Backend+Systems;I+Develop+APIs+%2C+Automations+%26+Cloud+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,7 +9,6 @@
   📍 Nairobi, Kenya · Available for Remote Work
 </p>
 
----
 
 <!-- Tech Stack -->
 <h2 align="center">⚒️ Tech Stack</h2>
