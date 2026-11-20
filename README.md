@@ -1,3 +1,4 @@
+
 <!-- Animated Introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -53,6 +54,7 @@
 </div>
 
 ---
+
 <!-- GitHub Statistics -->
 <h2 align="center">🔥 GitHub Stats</h2>
 
@@ -80,7 +82,6 @@
   />
 </p>
 
-
 <!-- Contact -->
 <h2 align="center">Get in Touch</h2>
 
@@ -91,3 +92,4 @@
   &nbsp;&nbsp;
   <b>brianprofocus@gmail.com</b>
 </p>
+
